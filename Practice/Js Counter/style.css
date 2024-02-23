@@ -10,6 +10,7 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+    background-color: rgb(238, 232, 232);
 }
 .container h1{
 	margin: 30px;
